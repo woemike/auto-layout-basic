@@ -2,4 +2,4 @@
 ### Udemy course
 ###### Auto Layout basic tutorial in Swift 2.
 
-![alt tag](https://github.com/woemike/auto-layout-basic/master/image.png)
+![alt tag](https://raw.github.com/woemike/auto-layout-basic/master/image.png)
